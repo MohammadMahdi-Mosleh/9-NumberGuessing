@@ -14,7 +14,7 @@ A simple and fun number guessing game built with **HTML**, **CSS**, and **TypeSc
 ---
 
 ## 🚀 Live Demo
-[👉 Click here to play the game]([https://USERNAME.github.io/REPO-NAME/](https://mohammadmahdi-mosleh.github.io/9-NumberGuessing/)
+[👉 Click here to play the game](https://mohammadmahdi-mosleh.github.io/9-NumberGuessing/)
 
 ---
 
